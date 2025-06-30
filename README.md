@@ -15,18 +15,18 @@ A modern portfolio optimization tool built with Python, Modern Portfolio Theory,
 This project lets you analyze and construct the most efficient portfolio for a set of stocks by maximizing the Sharpe Ratio, visualizing the Efficient Frontier, and applying constraints like maximum allocation.
 
 ## 🚀 Features
-✅ Fetches historical stock prices using yfinance
-✅ Computes daily/annual returns and risk (covariance)
-✅ Simulates 5,000+ random portfolios with Monte Carlo
-✅ Highlights the maximum Sharpe Ratio portfolio
-✅ Allows:
+- Fetches historical stock prices using yfinance
+- Computes daily/annual returns and risk (covariance)
+- Simulates 5,000+ random portfolios with Monte Carlo
+- Highlights the maximum Sharpe Ratio portfolio
+- Allows:
 
 User-defined risk-free rate
 
 Max allocation constraint per stock
 
-✅ Generates a downloadable plot of the Efficient Frontier
-✅ Interactive Gradio Web UI
+- ✅ Generates a downloadable plot of the Efficient Frontier
+- ✅ Interactive Gradio Web UI
 
 
 ## 📦 Setup
